@@ -1,0 +1,8 @@
+{
+  "discord_token": "secrets",
+  "default_cogs": [
+    "meta",
+    "timeline",
+    "ponymotes"
+  ]
+}

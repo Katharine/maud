@@ -1,0 +1,9 @@
+maud/setup.json
+
+.idea/
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+*$py.class
+.env/
